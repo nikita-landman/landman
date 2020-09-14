@@ -134,12 +134,12 @@ disqusShortname = "yourdiscussshortname"
 
 
     [languages.pt-br]
-        languagename = "Português"
-        title = "João Ninguém"
+        languagename = "English"
+        title = "Nikita Landman"
 
         [languages.pt-br.params]
-            author = "João Ninguém"
-            info = "Full Stack DevOps e Mágico"
+            author = "Nikita Landman"
+            info = "Web-developer"
             description = "Sítio pessoal de João Ninguém"
             keywords = "blog,desenvolvedor,pessoal"
             footercontent = "Coloque algum texto aqui."
@@ -147,21 +147,21 @@ disqusShortname = "yourdiscussshortname"
         [languages.pt-br.menu]
 
             [[languages.pt-br.menu.main]]
-            name = "Sobre"
+            name = "About me"
             weight = 1
             url = "about/"
 
             [[languages.pt-br.menu.main]]
-            name = "Blog"
+            name = "Posts"
             weight = 2
             url = "posts/"
 
             [[languages.pt-br.menu.main]]
-            name = "Projetos"
+            name = "Projects"
             weight = 3
             url = "projects/"
 
             [[languages.pt-br.menu.main]]
-            name = "Contato"
+            name = "Contacs"
             weight = 5
             url = "contact/"
