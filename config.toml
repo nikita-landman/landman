@@ -142,7 +142,7 @@ disqusShortname = "yourdiscussshortname"
             info = "Web-developer"
             description = "Sítio pessoal de João Ninguém"
             keywords = "blog,desenvolvedor,pessoal"
-            footercontent = "Coloque algum texto aqui."
+            footercontent = "«Code — is poetry»"
 
         [languages.pt-br.menu]
 
