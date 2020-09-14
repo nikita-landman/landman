@@ -16,15 +16,15 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Nikita Landman"
-    description = "John Doe's personal website"
-    keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
+    author = "Никита Ландман"
+    description = "Персональный сайт веб-разработчика Никиты Ландмана"
+    keywords = "веб-разработка, программирование, дизайн, блог, персональный сайт"
+    info = "Веб-разработчик"
     avatarurl = "images/avatar.jpg"
     #gravatar = "nikitalandman@gmail.com"
-    footercontent = "Enter a text here."
+    footercontent = "«Код — это поэзия»"
 
-    dateformat = "January 2, 2006"
+    dateformat = "Январь 2, 2006"
 
     hideFooter = false
     hideCredits = true
@@ -113,22 +113,22 @@ disqusShortname = "yourdiscussshortname"
         [languages.en.menu]
 
             [[languages.en.menu.main]]
-            name = "About"
+            name = "Обо мне"
             weight = 1
             url = "about/"
 
             [[languages.en.menu.main]]
-            name = "Blog"
+            name = "Записи"
             weight = 2
             url = "posts/"
 
             [[languages.en.menu.main]]
-            name = "Projects"
+            name = "Проекты"
             weight = 3
             url = "projects/"
 
             [[languages.en.menu.main]]
-            name = "Contact me"
+            name = "Контакты"
             weight = 5
             url = "contact/"
 
